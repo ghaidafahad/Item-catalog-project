@@ -39,8 +39,6 @@ python app.py
 
 ### References
 https://github.com/udacity/Full-Stack-Foundations
-
-
 https://github.com/SDey96/Udacity-Item-Catalog-Project
 
 
